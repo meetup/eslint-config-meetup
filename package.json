@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-meetup",
+  "version": "1.0.0",
+  "description": "Meetup ESLint base config",
+  "main": "index.js",
+  "repository": "https://github.com/meetup/eslint-config-meetup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Meetup",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Mike Spencer <mspencer@meetup.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  }
+}
